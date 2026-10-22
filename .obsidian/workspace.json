@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "38367e893e582d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "17ef255728caca28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b899b1ee463a7eb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "f5d6db95cca47113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AURA 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AURA 2"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af8ee394c6df93dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c4d82917d9f40c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d5a0f6326ccf892",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "7c7e82b2fdb79c03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "42c77c11a981ac0f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e050f76fb8dc6fa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d57d5db00a87d4a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75ddd76df9a8048e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "criaturas/_modelo/ficha.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "c258eae8b4724d23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "criaturas/_modelo/ficha.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "235003981cc00a6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "54a0a5d7a9b85c0f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "ce570ea05932a2be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "criaturas/_modelo/ficha.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f5d6db95cca47113",
+  "lastOpenFiles": [
+    "AURA 2.md",
+    "criaturas/_modelo/ficha.md",
+    "sessoes/2026-10-21-pavao-f2.md",
+    "decisoes/sed3voAuE",
+    "pesquisa/sedEWNNg1",
+    "pesquisa/piloto-01-pavao-koromon.md",
+    "decisoes/0005-estudar-referencias-por-estrutura.md",
+    "pesquisa/animacoes-e-mecanismos-reutilizaveis.md",
+    "decisoes/0004-direcao-artistica-simples.md",
+    "sessoes/2026-10-21-criatura-pavao.md",
+    "criaturas/criatura-pavao/ficha.md",
+    "criaturas/criatura-pavao/e1-costas.png",
+    "criaturas/criatura-pavao/e1-lado.png",
+    "criaturas/criatura-pavao/e1-frente.png",
+    "criaturas/criatura-pavao/e1-conceito.png",
+    "criaturas/criatura-pavao",
+    "criaturas/greenagumo/ficha.md",
+    "criaturas/greenagumo/e1-frente.png",
+    "criaturas/greenagumo/e1-conceito.png",
+    "criaturas/greenagumo",
+    "decisoes/0003-fluxo-pelo-chat.md",
+    "sedBOykxw",
+    "sessoes/2026-10-21-fase-9.md",
+    "sedoMEA5X",
+    "linhagem.png.md",
+    "sedmEYjv2",
+    "sedYwpZEZ",
+    "sedxpTcd7",
+    "sedDQfi3e",
+    "sessoes/2026-10-21-fase-8.md",
+    "decisoes/0002-exportacao-roblox.md",
+    "sessoes/2026-10-21-fase-7.md",
+    "sessoes/2026-10-21-fase-6.md",
+    "sessoes/2026-10-21-fase-5.md",
+    "sessoes/2026-10-21-fase-4.md",
+    "sessoes/2026-10-21-fase-3.md",
+    "sessoes/2026-10-21-fase-2.md",
+    "sessoes/2026-10-21-fase-1.md",
+    "sessoes/2026-10-21-fase-0.md"
+  ]
+}
